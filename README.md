@@ -49,16 +49,6 @@ Go back to IIS, sites -> Default -> osTicket
 
 Double-click PHP Manager
 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/gZcxi4X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-Double-click PHP Manager
-  
 Click “Enable or disable an extension
 
 - Enable: php_intl.dll
@@ -88,11 +78,8 @@ Download and Install HeidiSQL
 - Create a database called “osTicket”
 </b>
 
-</p>
-<br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RJOjrow.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
